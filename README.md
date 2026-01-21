@@ -1,6 +1,6 @@
-📊 Customer Service Analytics for Improving Customer Retention at Flipkart (Excel Project)
+# 📊 Customer Service Analytics for Improving Customer Retention at Flipkart (Excel Project)
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes customer service call-level data to understand what drives Customer Satisfaction (CSAT) and how service performance impacts customer retention.
 The goal is to identify key patterns across call centers, channels, issue types, SLA response time, and sentiment, and provide actionable recommendations to improve customer experience and reduce churn.
@@ -9,7 +9,7 @@ Tool Used: Microsoft Excel
 
 Focus Areas: CSAT • Customer Service • Retention
 
-🎯 Objectives :
+## 🎯 Objectives :
 
 Analyze customer service call data
 
@@ -17,7 +17,7 @@ Identify key drivers of CSAT
 
 Recommend improvements to enhance customer retention
 
-🧾 Dataset Description :
+## 🧾 Dataset Description :
 
 The dataset is a customer call-level dataset containing key variables such as:
 
@@ -37,7 +37,7 @@ Call Center / Region
 
 Date & Day Patterns
 
-🌳 Metric Tree (Business Logic)
+## 🌳 Metric Tree (Business Logic)
 
 The project uses a simple metric tree to connect operational metrics with business outcomes:
 
@@ -63,7 +63,7 @@ Call Center / Region
 
 Call Duration
 
-🧠 Key Hypotheses Tested :
+## 🧠 Key Hypotheses Tested :
 
 This project tested multiple hypotheses around:
 
@@ -79,7 +79,7 @@ Sentiment vs CSAT relationship
 
 Efficiency metrics impact (call duration)
 
-📌 Key Insights (Findings) :
+## 📌 Key Insights (Findings) :
 
 ✅ 1. CSAT varies by date (October 2020)
 
@@ -116,7 +116,7 @@ Customer sentiment has a very strong positive correlation with CSAT (r ≈ 0.895
 
 Call duration shows no correlation with CSAT and no correlation with sentiment, meaning longer/shorter calls don’t necessarily improve satisfaction.
 
-💡 Actionable Recommendations :
+## 💡 Actionable Recommendations :
 
 Improve proactive communication and transparency during Service Outage cases
 
@@ -128,7 +128,7 @@ Replicate best practices from Chennai call center
 
 Improve staffing + monitoring during start and end of month, when CSAT drops
 
-📈 Expected Business Impact :
+## 📈 Expected Business Impact :
 
 Higher customer sentiment → improved CSAT
 
@@ -140,7 +140,7 @@ More consistent service quality across regions and call centers
 
 Stronger long-term customer loyalty and brand trust
 
-🛠 Tools & Skills Used:
+## 🛠 Tools & Skills Used:
 
 Microsoft Excel
 
@@ -156,7 +156,7 @@ Microsoft Excel
 
      > Call center performance benchmarking
 
-📂 Project Files :
+## 📂 Project Files :
 
 Flipkart_Anlaysis.pdf → Final presentation/report 
 
@@ -164,7 +164,7 @@ Flipkart_Anlaysis
 
 Flipkart_df_Working.xlsx → Excel working file (data + analysis)
 
-🚀 How to Use :
+## 🚀 How to Use :
 
 Download the Excel file
 
@@ -178,7 +178,7 @@ Correlation insights (Sentiment vs CSAT)
 
 Time trend patterns
 
-📌 Conclusion :
+## 📌 Conclusion :
 
 The analysis shows that customer satisfaction at Flipkart is primarily driven by emotional experience and issue resolution quality, rather than operational metrics like call duration.
 Targeted improvements in sentiment handling, outage resolution, region alignment, and channel strategy can significantly improve CSAT and retention.
